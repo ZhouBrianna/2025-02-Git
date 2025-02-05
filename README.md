@@ -25,3 +25,5 @@ git branches
 - `git push origin b1`: pushes the b1 branch to the remote
 
 - `git pull origin b1`: pull the b1 branch from the remote
+
+- `git switch -c <NAME>`: will create a new branch and switch to it
