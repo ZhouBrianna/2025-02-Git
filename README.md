@@ -21,3 +21,7 @@ git branches
 - `git switch <NAME>`: moves over to the branch
 
 - `git log --oneline`: see where you are
+
+- `git push origin b1`: pushes the b1 branch to the remote
+
+- `git pull origin b1`: pull the b1 branch from the remote
